@@ -1432,7 +1432,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
       <dependency>
         <groupId>org.codehaus.jettison</groupId>
         <artifactId>jettison</artifactId>
-        <version>1.1</version>
+        <version>1.5.2</version>
         <exclusions>
           <exclusion>
             <groupId>stax</groupId>
